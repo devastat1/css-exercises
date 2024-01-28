@@ -1,0 +1,20 @@
+.odd {
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Use .odd to signify every odd element */
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background: lightgreen;
+    font-weight: bold;
+}
